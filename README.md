@@ -1,1 +1,2 @@
-# dbms_lab
+# dbms_lab  
+Database Management Systems Lab  
